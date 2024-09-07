@@ -74,7 +74,6 @@ body {
 .container ul li button:hover {
   background: red;
   color: hsl(0, 0%, 8%);
-color: yellow;
 }
 
 .attribution {
